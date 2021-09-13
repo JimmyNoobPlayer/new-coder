@@ -1,0 +1,10 @@
+#old requirements, I use more uptodate stuff
+# numpy needs to be before matplotlib
+#numpy==1.9.1
+#matplotlib==1.4.2
+#geojson==1.0.6
+
+#james mcternan 2021-09-12 requirements
+numpy==1.21.2
+matplotlib==3.4.3
+geojson==2.5.0
