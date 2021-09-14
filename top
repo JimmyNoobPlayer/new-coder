@@ -1,0 +1,2886 @@
+[33mcommit e6d2af08132448608a1d810ff62504eb6852ed85[m[33m ([m[1;36mHEAD -> [m[1;32mdataviz[m[33m)[m
+Author: James McTernan <36908825+JimmyNoobPlayer@users.noreply.github.com>
+Date:   Mon Sep 13 04:01:31 2021 -0700
+
+    first part of tutorial 1 DataViz done 2021-09-12
+
+[33mcommit 668989a5b5e5d8b5bda01921da706c9f8725911f[m[33m ([m[1;32mmain[m[33m)[m
+Author: James McTernan <36908825+JimmyNoobPlayer@users.noreply.github.com>
+Date:   Sun Sep 12 02:29:01 2021 -0700
+
+    I did something stupid
+    
+    The thing I did was not good.
+
+[33mcommit c18beecc5ca0feab1ea9aefc3c3e58d10217374d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: b8cdf09 df12056
+Author: Éric Araujo <merwok@users.noreply.github.com>
+Date:   Mon Aug 28 15:38:12 2017 -0400
+
+    Merge pull request #223 from MoBattah/patch-1
+    
+    Fixed link
+
+[33mcommit df12056f15bc9b8fc2252fe60262cfe999a78564[m
+Author: Mo Battah <mohhandb@hotmail.com>
+Date:   Sun Aug 27 22:35:03 2017 -0400
+
+    Fixed link
+    
+    Fixed link
+
+[33mcommit b8cdf0985455b7dea447cb35e86a3a4cc9684832[m
+Merge: 2d58b25 d336852
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Fri Apr 15 14:36:05 2016 -0400
+
+    Merge pull request #159 from Zerocchi/patch-1
+    
+    Fix URL typo
+
+[33mcommit 2d58b25d6ecc9ace776c41f5ddeec5cd9fb42839[m
+Merge: 96210a4 62bbc3a
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Fri Apr 15 14:32:44 2016 -0400
+
+    Merge pull request #196 from goelakash/fix
+    
+    Fix typo
+
+[33mcommit 96210a4091ec014af999543aee831928845e8dff[m
+Merge: 0acc27a e6c00a2
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Fri Apr 15 14:31:31 2016 -0400
+
+    Merge pull request #203 from anjali-92/issue#202
+    
+    Fix misleading phrasing #166
+
+[33mcommit e6c00a24c37a51fba05ebbc6b13a78e65219c67f[m
+Author: “Anjali <anjalipardeshi92@gmail.com>
+Date:   Fri Apr 15 21:31:59 2016 +0530
+
+    pip statement updated
+
+[33mcommit 7c90a8eb1708ed5bc5fcd9fc1dda0f75793838fd[m
+Author: “Anjali <“anjalipardeshi92@gmail.com”>
+Date:   Tue Apr 12 22:04:11 2016 +0530
+
+    Fix Bug 166
+
+[33mcommit 62bbc3a6002445ad332835b82825b7dc222abbb5[m
+Author: goelakash <goelakash93@gmail.com>
+Date:   Sat Jan 16 19:02:20 2016 +0530
+
+    Typo
+
+[33mcommit 0acc27a9f3f3ee7e3a9995c9b86199339b5b072e[m
+Merge: d37006b f74bf3e
+Author: Carol Willing <carolcode@willingconsulting.com>
+Date:   Mon Aug 17 04:52:18 2015 -0700
+
+    Merge pull request #185 from chrisfox/patch-1
+    
+    Edit tutorial doc to remove stray reference to np.array()
+    Fixes #136
+
+[33mcommit f74bf3ef454e4d7dfbd421edb0b8e321b2d07321[m
+Author: Chris Fox <chris@robotninja.net>
+Date:   Sat Aug 15 20:42:17 2015 +0100
+
+    Fixes #136
+    
+    Stray reference to np.array() in the tutorial
+
+[33mcommit d37006bc412d75469164b4c46042694402c5d3ad[m
+Merge: 8d8f038 0881adc
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Fri Jul 10 12:57:08 2015 -0400
+
+    Merge pull request #180 from abhikpal/master
+    
+    Fixed typo in 'Setting up your computer'
+
+[33mcommit 0881adc949c8d4dbe517c5713aa706e76972f9b2[m
+Author: Abhik Pal <abhikpal2509@gmail.com>
+Date:   Fri Jul 10 22:00:42 2015 +0530
+
+    Fixed typo. 'multiple' was spelled as 'multple'
+
+[33mcommit 38bd5acc4c180e5b293f299904e7bba9476bc62e[m
+Author: Abhik Pal <abhikpal2509@gmail.com>
+Date:   Fri Jul 10 21:52:21 2015 +0530
+
+    Fixed minor typo in mac setup.
+
+[33mcommit 8d8f03879d3f099b392cc92b1f337c0d7ca7e356[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Fri Jun 12 10:26:08 2015 -0700
+
+    Fixed weird URL issues with a new container
+
+[33mcommit bf649086c5c9ae275526ef7368d187632787ceeb[m
+Merge: bd37f45 848b69b
+Author: Lynn Root <lynn@spotify.com>
+Date:   Fri Jun 12 10:02:14 2015 -0700
+
+    Merge branch 'pr/156'
+
+[33mcommit bd37f452fa5de4dca12f620dc5a92c45a00ebb53[m
+Merge: bd48ee4 2768f4e
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Fri Mar 13 09:38:43 2015 -0700
+
+    Merge pull request #168 from jackmaney/master
+    
+    Added Atom to list of text editors
+
+[33mcommit 2768f4e883e84537ede34e971f45ef39f4e20a9f[m
+Author: Jack Maney <jlmaney@dstsystems.com>
+Date:   Fri Mar 13 11:31:15 2015 -0500
+
+    Added Atom to list of text editors
+
+[33mcommit bd48ee4c89cd53fdf38f20ab8d1f4023017a1f80[m
+Merge: 82ee64a 12f7f79
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Mon Mar 2 23:07:31 2015 -0800
+
+    Merge pull request #167 from zerok/api-buffersize
+    
+    Add explanation for the buffer size in the API example.
+
+[33mcommit 12f7f7992325978fe50ec0eaf01f7c3bd97fc3ad[m
+Author: Horst Gutmann <zerok@zerokspot.com>
+Date:   Tue Mar 3 07:45:30 2015 +0100
+
+    Add explanation for the buffer size in the API example.
+
+[33mcommit 82ee64adb5c5385dcda05d30afb8d2a092751641[m
+Merge: 08d6983 1471904
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Fri Feb 27 02:50:14 2015 -0800
+
+    Merge pull request #160 from Projjol/patch-1
+    
+    Fix spelling nit
+
+[33mcommit 147190409bf76a798033d373302f1abdf4fef2b8[m
+Author: Projjol Banerji <probaner23@gmail.com>
+Date:   Fri Feb 27 13:25:04 2015 +0530
+
+    Update 2013-03-06-part-1.md
+    
+    Fixed spelling. 'some' instead of 'come'.
+
+[33mcommit d3368526dc4bf972ef2bfe188d0a0a884898aff5[m
+Author: M Afiq <slaveration@gmail.com>
+Date:   Fri Feb 27 14:46:18 2015 +0800
+
+    Fix URL typo
+
+[33mcommit 08d69833e926ad858f739499544a7dd1ddbb4684[m
+Merge: 2c16553 686b107
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Thu Feb 26 10:32:42 2015 -0800
+
+    Merge pull request #158 from robvdl/master
+    
+    Fix typo in README
+
+[33mcommit 686b107b4ba0998baf82c3826cdf319e6f1585f5[m
+Author: Rob van der Linde <robvdl@gmail.com>
+Date:   Fri Feb 27 07:28:17 2015 +1300
+
+    Fix typo in README
+
+[33mcommit 848b69bbcb4ce70c851d8d920e1aa85701efdb35[m
+Author: mukulrawat1986 <rawatmukul86@gmail.com>
+Date:   Wed Feb 4 13:37:49 2015 +0530
+
+    corrected formatting in dataviz part 1
+    
+    Update mac-setup.md
+    
+    Made a typo here, corrected.
+    
+    Update mac-setup.md
+    
+    Update mac-setup.md
+    
+    Update mac-setup.md
+    
+    4-space indent set
+    
+    updated mac-setup.md
+    
+    mac-setup corrected finally
+
+[33mcommit 2c1655349cc419b519d34f0fd2a261bf1c50464f[m
+Merge: eb4ed6c 7e22823
+Author: Carol Willing <carolcode@willingconsulting.com>
+Date:   Sun Feb 1 19:36:56 2015 -0800
+
+    Merge pull request #155 from eyaylali/patch-1
+    
+    fixes to data viz tutorial
+    Corrects spelling error.
+
+[33mcommit 7e22823307354d8ee86f6cd61c9c90c0adacb993[m
+Author: Erin Yaylali <erinyaylali@gmail.com>
+Date:   Sun Feb 1 15:05:44 2015 -0800
+
+    fixing spelling
+
+[33mcommit eb4ed6cbf86d9c58dc1fc80549daacce8d0b7a06[m
+Merge: 290e98e 6cf2a12
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Thu Jan 29 17:25:17 2015 -0800
+
+    Merge pull request #154 from nicoman/master
+    
+    Fix url typo
+
+[33mcommit 6cf2a12f2d18ab4fef0399efdad597093e283ba5[m
+Author: nicoman <nicolasmanso@gmail.com>
+Date:   Thu Jan 29 21:50:13 2015 -0300
+
+    Fix url typo
+
+[33mcommit 290e98e54c8055c36e3b965eb435e4e89a9250ce[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Wed Jan 21 14:24:54 2015 -0800
+
+    fix TOC with some CSS hacks
+
+[33mcommit 6fd95d907206ef4d9ff3a4751801b0ac20e01609[m[33m ([m[1;33mtag: v2.0[m[33m)[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 15:44:14 2015 -0800
+
+    Update readme, fix build instructions
+
+[33mcommit 53070ca9e0de3495ec71bea3b0851a2738378b49[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 15:34:02 2015 -0800
+
+    update reqs for networks
+
+[33mcommit f6852794a9addd461e7643a7303462dd3eb75441[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 15:26:31 2015 -0800
+
+    Upgraded requirements for API tutorial
+
+[33mcommit 5a61a55f3d0281b37a31c91068fa69415b2cc3d3[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 13:14:25 2015 -0800
+
+    Minor site fixes
+
+[33mcommit f76505456e2e4778d39dc444332ed0f5feffe93d[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:58:27 2015 -0800
+
+    try a different URL for 404 page image
+
+[33mcommit 23ecb1410106160f4f60903b8ee8da8084a69d93[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:53:13 2015 -0800
+
+    Redirect for previously borked link
+
+[33mcommit f7379c284223ee61d1f7babdc8a841cbafb3c868[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:52:25 2015 -0800
+
+    Redirect URL from /~drafts/networks to /networks
+
+[33mcommit ba59b3ef3e86e705b47f8b1dd942d70baed8bfce[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:51:35 2015 -0800
+
+    Create 404 page
+
+[33mcommit 8448928157c2252a8005539246694ab06e2a7634[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:28:57 2015 -0800
+
+    Update main readme
+
+[33mcommit fa113be77f9a94c4455bc08d2dd2dac65df96f57[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:26:18 2015 -0800
+
+    Update project directory layout
+
+[33mcommit 628113ecc8fcf07aa5d8ce16b9285e7003ae9e20[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:22:38 2015 -0800
+
+    Remove unnecessary cache file
+
+[33mcommit 4e3e67757c5fc36bc61a35421e8bfeba6adfa6ca[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:19:52 2015 -0800
+
+    Remove random gitignore
+
+[33mcommit a4ea03eb73346e2ab39bc8ee0cb7e32333fe4c20[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:19:20 2015 -0800
+
+    Edit READMEs to all be consistent
+
+[33mcommit 7d56e7be5c28cb3729b93eb243c366e76673182d[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 12:19:05 2015 -0800
+
+    remove draft landing page
+
+[33mcommit b9570867f2ca7b953f3508decfbb6eff90193d73[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 11:34:44 2015 -0800
+
+    Remove unneeded files
+
+[33mcommit 5aabcdd3f16ee3981916bfe21d515d9e95afc5a5[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 11:34:34 2015 -0800
+
+    Note to ignore X11 pop-up in Mac
+
+[33mcommit b3807caad8783df06b9bac2099615b4d72569263[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 11:34:12 2015 -0800
+
+    Pin reqs to specific dependency versions
+
+[33mcommit 936df3bd04a04f480a45cc2b011c3709b21de1c1[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 11:15:02 2015 -0800
+
+    Use pip --version, add note about zsh vs bash
+
+[33mcommit cd5b38b23b3a83bfdcbb9984d010280fae1bb83d[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 11:03:59 2015 -0800
+
+    Fix project directory layout
+
+[33mcommit 6b4e5604f07748b1069c7464affad24cc2f5e481[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 10:01:47 2015 -0800
+
+    Edit the referred function for yield
+
+[33mcommit 40a9e057e45fed9680b45cb67c4213a4633b9edc[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Jan 19 09:55:55 2015 -0800
+
+    Design tweaks
+
+[33mcommit 376a26a1572c20595399c7052e2cbfa0597bc307[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sun Jan 18 23:44:09 2015 -0800
+
+    Fixes 'n' shit
+
+[33mcommit bc54b87c5e599bd5b46cb103061dbb8a53c9fdf8[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sun Jan 18 23:43:58 2015 -0800
+
+    GUI tutorial draft
+
+[33mcommit 567ea250ffc3fc44c7744e4e6d4986299e269314[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sun Jan 18 16:16:33 2015 -0800
+
+    WIP: writing of gui tutorial
+
+[33mcommit 0ab1ae3ab854f8ca70c7d0a45474f905f96f08cb[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sun Jan 18 12:16:44 2015 -0800
+
+    Update scraper requirements version, xpath, tutorial
+
+[33mcommit 27f712853d8b62ab6f5f41d22b56a117429a9136[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Jan 17 22:22:34 2015 -0800
+
+    Update CSS theme
+
+[33mcommit bb322fbffd38d8083221c746a7d1388a8fba6039[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Jan 17 19:30:29 2015 -0800
+
+    updated CLI tools for mac
+
+[33mcommit 0282f6498d56131a3c8b0a067e3d137ab969c7d8[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Jan 17 19:21:01 2015 -0800
+
+    added virtualenvwrapper to bash_profile
+
+[33mcommit 9588772067c27d3b77495eb76a07842fe587527e[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Jan 17 16:49:14 2015 -0800
+
+    Windows setup update
+
+[33mcommit 315937a203c763fa24d830266d3f9a3b849f304a[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Jan 17 16:13:49 2015 -0800
+
+    Update mynt and adapted to containers
+
+[33mcommit eced8d15976adca0a58816412bd18c908bc2468f[m
+Merge: 2d2f59d d80ba39
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Thu Dec 18 15:47:32 2014 -0500
+
+    Merge pull request #144 from helenst/dataviz-typos
+    
+    Fixed a few typos in dataviz tutorial
+
+[33mcommit d80ba396f09bc2715ead18feb830d68bc931e560[m
+Author: Helen Sherwood-Taylor <helenst@gmail.com>
+Date:   Thu Dec 18 20:27:30 2014 +0000
+
+    Fixed a few typos in dataviz tutorial
+
+[33mcommit 2d2f59d05ed8650ca36268b962c7ffe59302c66a[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Dec 13 12:18:12 2014 -0800
+
+    updated donate links
+
+[33mcommit db89436bbd2e59c21bbce6ecaabace65968a2c9d[m
+Merge: d2e9bc9 56c7932
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Mon Oct 27 14:02:21 2014 -0400
+
+    Merge pull request #138 from CheriPai/patch-1
+    
+    Fix typo
+
+[33mcommit 56c793298740a7414967f6c9879764b62dae2b92[m
+Author: Dat Do <datdo@rocketmail.com>
+Date:   Mon Oct 27 10:46:25 2014 -0700
+
+    Update 2013-01-03-Part-2-Graph.md
+
+[33mcommit d2e9bc9abf9df1ffdd38491b1bd89c85d41d8505[m
+Merge: 0745a06 f043e67
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Mon Oct 20 11:54:52 2014 -0400
+
+    Merge pull request #134 from tothebeat/patch-2
+    
+    Minor spelling corrections in Intro to Scraping.
+
+[33mcommit 0745a06351dcf31bb798ec98340c2b020401dd13[m
+Merge: d600986 a9120de
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Fri Oct 17 10:08:40 2014 -0700
+
+    Merge pull request #137 from caynan/fix-#136
+    
+    This fixes #136
+
+[33mcommit a9120debc099a22d7faaf52a376af8e4a4a09812[m
+Author: Caynan <caynanvls@gmail.com>
+Date:   Thu Oct 16 17:38:53 2014 -0400
+
+    This fixes #136
+    
+    - numpy.numarray is deprecated
+    - changed the xlocations to use numpy.arange instead
+    - changed website to reflect the changes made in graph.py
+
+[33mcommit f043e67a0ca4fd191970ecefdb767f6784e5948a[m
+Author: Nick Bennett <nick271828@gmail.com>
+Date:   Thu Oct 2 14:29:22 2014 -0500
+
+    Minor spelling corrections.
+
+[33mcommit d6009861fdf92d3c5affd3548065cc23a99d974b[m
+Merge: 9f938f4 25b458f
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Wed Sep 10 21:08:00 2014 -0700
+
+    Merge pull request #129 from Lazar-T/patch-1
+    
+    fixed number of variables defined in settings.py
+
+[33mcommit 25b458f4b919086e784a4dec4a32e5ac2937d160[m
+Author: Lazar-T <lazartelebak@gmail.com>
+Date:   Wed Sep 10 03:04:39 2014 +0200
+
+    fixed number of variables defined in settings.py
+
+[33mcommit 9f938f4e9fa8d7737d29fde8bdc669049e1bab31[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Aug 16 13:28:03 2014 -0700
+
+    fixed link to proper part 0
+
+[33mcommit 496642ffb6a7f0d7255f1f2e1a58e2906938def5[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Aug 16 12:09:06 2014 -0700
+
+    updated workshop PDFs for new pip instructions
+
+[33mcommit d34d278c8f1de7afce2b196cb891c310e6214447[m
+Merge: a3b9793 085e04e
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Aug 16 12:02:49 2014 -0700
+
+    merge #98
+
+[33mcommit a3b9793eb734611fbe8ee65353c1b4e918d89692[m
+Merge: 52286c9 d4d16c0
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Aug 16 12:01:02 2014 -0700
+
+    Merge branch 'pr/100'
+
+[33mcommit 52286c99af41a3288738956282574350559b37a0[m
+Merge: f0168ae 1bbb210
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Aug 16 11:47:56 2014 -0700
+
+    update to new pip instructions, including #104
+
+[33mcommit 1bbb2100f8109af26c96ef5c6b26f90d224c6280[m
+Merge: 189baf0 8a41764
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Sat Aug 16 11:40:10 2014 -0700
+
+    Merge pull request #104 from markhellewell/master
+    
+    fixed up pip install instructions
+
+[33mcommit f0168ae517d2061cc6506ca58719247719ccb10e[m
+Merge: e70bc64 189baf0
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Aug 16 11:38:51 2014 -0700
+
+    Merge branch 'master' of github.com:econchick/new-coder
+
+[33mcommit 189baf00493994ae2ec62ec6cd3538fd0a0fc9a3[m
+Merge: 994d09b e1d2e10
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Sat Aug 16 11:38:38 2014 -0700
+
+    Merge pull request #106 from hynek/master
+    
+    newcoder's website doesn't work with mynt 0.3
+
+[33mcommit e70bc6480657d185c2a368fd723bf4c28a15fe8d[m
+Merge: ee77137 994d09b
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Aug 16 11:24:16 2014 -0700
+
+    Merge branch 'master' of github.com:econchick/new-coder
+
+[33mcommit e1d2e10c5b4e5610b71e29955d4a3810c3babedf[m
+Author: Hynek Schlawack <hs@ox.cx>
+Date:   Sat Aug 9 10:13:13 2014 +0200
+
+    newcoder's website doesn't work with mynt 0.3
+    
+    There have been some changes, pinning to 0.2.x for now.
+    
+    Details: http://mynt.uhnomoli.com/miscellany/upgrading/
+
+[33mcommit 8a4176418063b0358174a8a051e5781c55913676[m
+Author: mark hellewell <mark.hellewell@gmail.com>
+Date:   Sat Aug 9 16:15:08 2014 +1000
+
+    fixed up pip install instructions
+    
+    fix URL for get-pip.py
+    
+    remove installation of distribute (via curl of distribute_setup.py), in favour of install/upgrade of setuptools via pip
+
+[33mcommit 994d09b263fa22868949ee6fde71d8e0aab82ad4[m
+Merge: 5a28de8 0d15a21
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Tue Jul 8 09:22:27 2014 -0700
+
+    Merge pull request #103 from bmwasaru/master
+    
+    fix mint.com link 404 Error
+
+[33mcommit 0d15a21af84f550b0d24d2dd3968eef02d0bcf6a[m
+Author: Britone Mwasaru <bmwasaru@gmail.com>
+Date:   Tue Jul 8 12:35:32 2014 +0300
+
+    fix mint.com link 404 Error
+
+[33mcommit d4d16c0e912fbb7221c9f93d12c8d11f8b394a22[m
+Author: Widnyana Putra <widnyana.p@gmail.com>
+Date:   Sun May 25 01:15:55 2014 +0700
+
+    fix typo, its should be fourth
+    
+    the length of variable was 3, then comes the <del>fifth</del> fourth variable `ITEM_PIPELINES`
+
+[33mcommit ee7713774530244e45d2baf02bab2b8c4b57746d[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue May 6 10:23:57 2014 -0700
+
+    removed _site dir from tracking to remove confusion
+
+[33mcommit d9d96f8eda5f5e5228ae3af1181e87c08085d709[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue May 6 10:20:58 2014 -0700
+
+    fixing @JoeOBrien 's commit within the actual docs
+
+[33mcommit e4b6ad271d141af162cc8e74c87802cbd646b602[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue May 6 10:17:46 2014 -0700
+
+    Revert "Update dataviz.py"
+    
+    This reverts commit 18c2ab529fdfb590899089565577173b7e783a8d.
+
+[33mcommit 085e04e3e416d68b628579ba32784d9bf911e712[m
+Author: JoeOBrien <gmail@joeobrien.me>
+Date:   Tue May 6 00:52:47 2014 +0100
+
+    changed 'p.my_file' to 'p.MY_FILE'
+    
+    my_file is lowercase when it is uppercase in the parse file. I also checked in the file for map.py and it's p.MY_FILE, so this is probably a typo :-).
+
+[33mcommit 5a28de886847be422a39e1182a4b3c349d27149d[m
+Merge: 73ba804 13d164b
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Sat May 3 11:04:06 2014 -0400
+
+    Merge pull request #96 from Nihdez/patch-1
+    
+    Update README.md
+
+[33mcommit 13d164bbd54ccea46f5a4d16b6dac8b0693199ea[m
+Author: Nihdez <nicolas.ivanhoe@gmail.com>
+Date:   Fri May 2 07:38:09 2014 +0200
+
+    Update README.md
+    
+    Added website to readme in order to find it faster.
+
+[33mcommit 73ba804b09d4a38f45762e67f06e0b17e6509643[m
+Merge: f2c86a9 07d9a8b
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Fri May 2 00:45:05 2014 -0400
+
+    Merge pull request #87 from ChuntaoLu/patch-2
+    
+    Fix virtual environment name inconsistency
+
+[33mcommit f2c86a998f8334fa0c97330580144309e79438e5[m
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Thu May 1 23:41:00 2014 -0400
+
+    Fix minor things in README.
+    
+    Manual merge of pull request #44 by @jsutterfield.
+
+[33mcommit 895f2b3b0e2627dcb6cc042c4493faf383a88cae[m
+Merge: 3ae2d04 18c2ab5
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Thu May 1 23:36:22 2014 -0400
+
+    Merge pull request #95 from Nihdez/patch-1
+    
+    Small idiomatic improvement in dataviz.py
+
+[33mcommit 18c2ab529fdfb590899089565577173b7e783a8d[m
+Author: Nihdez <nicolas.ivanhoe@gmail.com>
+Date:   Fri May 2 02:49:18 2014 +0200
+
+    Update dataviz.py
+    
+    There's no need to use tuple() upon a list, just put in the tuple directly. Unless there's a hidden reason I haven't realized, in which case, sorry!
+
+[33mcommit 3ae2d04c9c2e6321e14cbc52a97e4c3126f033e6[m
+Merge: 482ddae 70f2719
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Wed Apr 30 10:40:21 2014 -0700
+
+    Merge pull request #94 from JoeOBrien/patch-1
+    
+    Typo, "worry about his as"->"worry about this as"
+
+[33mcommit 70f2719726223103bb950762c2e7ca5d56b81019[m
+Author: JoeOBrien <gmail@joeobrien.me>
+Date:   Wed Apr 30 18:38:53 2014 +0100
+
+    Typo, "worry about his as"->"worry about this as"
+    
+    In setup a NOTE just after installing requirements it says "Windows users do not need to worry about his as these packages" I just changed his to this.
+
+[33mcommit 482ddae854fc4c3d69fbe3c277cb6d89eb00d7d9[m
+Merge: fb12547 ede41d7
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Fri Apr 4 08:23:17 2014 -0400
+
+    Merge pull request #91 from kmolo/master
+    
+    Fix for Issue# 90 -- fixed broken links
+
+[33mcommit ede41d7df6042f68332e7f1e73e81112b24aec93[m
+Author: kmolo <kmoloney@mail.ccsf.edu>
+Date:   Fri Apr 4 05:17:25 2014 -0700
+
+    removed unnecessary newline at </html> tage
+
+[33mcommit 6375252406195bcd8c0c6e29170ea22756887b5b[m
+Author: kmolo <kmoloney@mail.ccsf.edu>
+Date:   Fri Apr 4 05:10:50 2014 -0700
+
+    Fix broken link for 'Python on the Mac'
+    
+    Bad link was http://www.python.org/getit/mac/
+    Good link is https://www.python.org/download/mac
+
+[33mcommit ff92bb6613e7a9e8de49f7e593d4cc04f63abedd[m
+Author: kmolo <kmoloney@mail.ccsf.edu>
+Date:   Fri Apr 4 05:10:00 2014 -0700
+
+    Fix broken link for 'Python on the Mac'
+    
+    Bad link was http://www.python.org/getit/mac/
+    Good link is https://www.python.org/download/mac
+
+[33mcommit fb125476e2f5fdacfc43f1f2529efd423db20a00[m
+Merge: 34863ee bb48de3
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Thu Apr 3 11:27:43 2014 -0400
+
+    Merge pull request #89 from econchick/issue88
+    
+    fixed typo in link per https://github.com/econchick/new-coder/issues/88
+
+[33mcommit bb48de3b2c9c19685faabd54e90ff1bc6f266cd9[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Thu Apr 3 11:24:27 2014 -0400
+
+    fixed typo in link per https://github.com/econchick/new-coder/issues/88
+
+[33mcommit 07d9a8b49d31cae0530c32d03fd090434d9a8142[m
+Author: ChuntaoLu <chuntaolu13@gmail.com>
+Date:   Sat Mar 15 13:11:45 2014 -0400
+
+    Fix virtual environment name inconsistency
+
+[33mcommit 34863ee12c44ae2e5a270b9fe766212f2a94a1b7[m
+Merge: 045415a 70d8d12
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Sat Mar 15 09:56:57 2014 -0700
+
+    Merge pull request #86 from ChuntaoLu/patch-2
+    
+    Fix typo
+
+[33mcommit 70d8d1217643c7ee5d40942c2f6049943bda00d7[m
+Author: ChuntaoLu <chuntaolu13@gmail.com>
+Date:   Sat Mar 15 11:51:24 2014 -0400
+
+    Fix typo
+
+[33mcommit 045415a2b3306bc40bbffbce3af8fe48a469eb24[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Feb 10 15:28:56 2014 -0500
+
+    updated site to reflect the skipping of 2014
+
+[33mcommit 4372351dc13c4b5503d6bebdc36d65801ae8b7f8[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Feb 10 15:28:38 2014 -0500
+
+    added comment for skipping 2014 cpi data
+
+[33mcommit c46d1ccb4620afa9c1d8b18b655123ac92d4ddfb[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Mon Feb 10 15:26:13 2014 -0500
+
+    fixed issue where there is no 2014 cpi data
+
+[33mcommit 523120098c2b5ea305cd410194e68ba9a01ca29b[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Fri Feb 7 14:15:19 2014 -0800
+
+    adding mynt gen files
+
+[33mcommit e4bafe3c6100fa2b4f6657333b74d89046dcef1f[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Fri Feb 7 14:15:00 2014 -0800
+
+    added pyladiessf tutorial setup for dataviz
+
+[33mcommit ef32d14fe38c71492bc0cc6a8f9f92a666b3c41f[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue Feb 4 19:19:48 2014 -0800
+
+    fixed a leak where plot wasn't closing and writes over the first image with the second
+
+[33mcommit 811e60f0f29d0ce787fdc5d8109d8d6385af69de[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue Feb 4 19:13:16 2014 -0800
+
+    forgot to uncomment a line
+
+[33mcommit 7ed38b840bf88f3153d9bec1abcf27d1917b0f96[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue Feb 4 19:05:49 2014 -0800
+
+    oops forgot to run mynt gen before committed
+
+[33mcommit 86f9852589b90ea119e22c9616831894de5fe0a4[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue Feb 4 19:04:46 2014 -0800
+
+    updated tutorial to reflect saving of images, as well as locally hosted images rather than dropbox
+
+[33mcommit a011e381eb0a18deb77736a7539adb9bcc5d6e02[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue Feb 4 18:51:54 2014 -0800
+
+    updated to use geojson rather than Google Maps and KML
+
+[33mcommit 6b6630485e82c510e24546c05aa2603b3036a221[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue Feb 4 18:48:39 2014 -0800
+
+    switched from showing plot to saving it locally
+
+[33mcommit 57163ee84b6254414d5e73ba5946ddb08e0dbbe6[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue Feb 4 18:48:02 2014 -0800
+
+    switched from showing plot to saving it locally as a PNG for better support across OSs
+
+[33mcommit 865a091f5b51f6341ea4163bdd2b104c3d9c7c8d[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Feb 1 15:48:26 2014 -0800
+
+    updated tutorial to use GeoJSON rather than KML + Google Maps
+
+[33mcommit 1363688c4192c0cd598bc196360e8f6ad1bbd02d[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Feb 1 15:06:00 2014 -0800
+
+    updated map file to use geojson and gist.github.com rather than google maps with KML files
+
+[33mcommit acede43a7e00c5cca9970e209afd8183072ecca2[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sat Feb 1 14:21:11 2014 -0800
+
+    fixed typo
+
+[33mcommit 0072c6a0de15aa1e5084c184177bb0234ebe20aa[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Thu Dec 19 11:02:18 2013 -0800
+
+    updated generated site
+
+[33mcommit 4fa2c3af66b52338682071d2993d75fb592b821f[m
+Merge: 28ac2f3 a5fe600
+Author: Lynn Root <lynn@spotify.com>
+Date:   Thu Dec 19 11:00:49 2013 -0800
+
+    Merge branch 'master' of github.com:econchick/new-coder
+
+[33mcommit a5fe600ff0a81a7108bfe0c5803b638318f9b895[m
+Merge: 1e2afb6 965faac
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Thu Dec 19 11:00:23 2013 -0800
+
+    Merge pull request #79 from dsimandl/master
+    
+    changed quotesFile to quotesFilename
+
+[33mcommit 965faac847dbebc3ec6d73c09cb5c847bce00047[m
+Author: David Simandl <david.simandl@gmail.com>
+Date:   Thu Dec 19 11:03:09 2013 -0500
+
+    changed quotesFile to quotesFilename
+    
+    Changed quotesFile to quotesFilename to match the settings example and text further on in the tutorial
+
+[33mcommit 28ac2f30045ff9d39705a3c0b05dcc051104e861[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Tue Dec 17 15:30:06 2013 -0800
+
+    updated site
+
+[33mcommit 1e2afb6f2dcb6bc510f8d94e45794d0020871adb[m
+Merge: f97369b 31cf1a6
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Tue Dec 17 13:24:47 2013 -0800
+
+    Merge pull request #78 from dsimandl/master
+    
+    Added missing ")"
+
+[33mcommit 31cf1a6b94f31af68c40f64e7c90e3b1ebbb2802[m
+Author: David Simandl <david.simandl@gmail.com>
+Date:   Tue Dec 17 16:19:54 2013 -0500
+
+    Added missing ")"
+    
+    As I'm working through this I noticed my editor complaining about a missing ")".  Now matches source.
+
+[33mcommit f97369b36793024a067a08abc527ea691b419c6b[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sun Dec 15 16:29:26 2013 -0500
+
+    finally updated some shit
+
+[33mcommit bd81cb39bfbff75e991d87675e4290a9c666cec9[m
+Merge: 9cef4ca f99c1d7
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sun Dec 15 16:25:45 2013 -0500
+
+    Merge branch 'master' of github.com:econchick/new-coder
+
+[33mcommit f99c1d7adf1ad6a17cdae888940a979a2f93f98a[m
+Merge: 93df77f 0147b59
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Sun Dec 15 13:23:43 2013 -0800
+
+    Merge pull request #75 from greenca/master
+    
+    Fixes to website code snippets for Web Scraping tutorial
+
+[33mcommit 0147b59ea504eac518e8b24cdf47085d396c4f55[m
+Author: green <green@cganalytics.org>
+Date:   Sat Dec 14 21:48:19 2013 -0800
+
+    Changed code snippets from settings.py to match the sample code
+
+[33mcommit 93df77fb949e26115f8601084648754dd6966927[m
+Merge: cacaca8 31c7bd4
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Mon Dec 2 15:27:10 2013 -0800
+
+    Merge pull request #74 from nyghtowl/master
+    
+    Proofread
+
+[33mcommit 31c7bd4f00ddc09e4245816a74c0ac4656eba7e4[m
+Author: Melanie Warrick <warrick.melanie@gmail.com>
+Date:   Sun Dec 1 21:41:18 2013 -0800
+
+    Proofread
+    
+    Minor adjustments to the first couple paragraphs and one line internally.
+
+[33mcommit 9cef4cabd215559a0727da32ab9f369b5a55c59c[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sun Dec 1 15:03:39 2013 -0800
+
+    added _site dir
+
+[33mcommit cacaca80d54b9414fda4522c414af039885bc00e[m
+Merge: 0346a61 3400419
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Sun Dec 1 14:32:13 2013 -0800
+
+    Merge pull request #73 from econchick/datavizsetup
+    
+    merged @kdeebee 's PR
+
+[33mcommit 3400419c0a1a50735c9113bd35ebcfeee86dd46a[m
+Author: Lynn Root <lynn@spotify.com>
+Date:   Sun Dec 1 14:31:04 2013 -0800
+
+    merged @kdeebee 's PR and fixed merge conflict and adjusted terminal prompts to match current pattern
+
+[33mcommit 0346a61c1582018e540eede1d7d665060b89978e[m
+Merge: 207de49 360d529
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Sun Dec 1 14:19:26 2013 -0800
+
+    Merge pull request #45 from talam/patch-3
+    
+    Changed install order.
+
+[33mcommit 207de49a75dd54d2abcc3fc674213414421533da[m
+Merge: 50d50e9 5f5e999
+Author: Lynn Root <econchick@users.noreply.github.com>
+Date:   Sun Dec 1 14:18:20 2013 -0800
+
+    Merge pull request #70 from canibanoglu/dataviz-corrections
+    
+    Various typo and grammar fixes
+
+[33mcommit 50d50e98357c61d6c9d3508c2f24e10d27815457[m
+Merge: 127e07a 9c26fbc
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Mon Nov 25 19:41:32 2013 -0800
+
+    Merge pull request #71 from avinassh/patch-1
+    
+    Fixed wikipedia link of Git history
+
+[33mcommit 9c26fbc4952347f24b1c50c210c33a7dadf5e040[m
+Author: avinassh <awesomo1989@users.noreply.github.com>
+Date:   Mon Nov 25 23:09:52 2013 +0530
+
+    Fixed wikipedia link of Git history
+    
+    Currently in the page : http://newcoder.io/begin/save-your-progress/ , Under what is Git, the link which points to Wikipedia article of Git is broken.
+
+[33mcommit 5f5e999c5b5002775f36e943c7c38c40072ce973[m
+Author: Can Ibanoglu <can@howyoucod.in>
+Date:   Tue Nov 12 18:43:42 2013 +0200
+
+    Fixed a typo Lynn suggested :)
+
+[33mcommit 2cba5b997369c3694149c0058babe7738f938f7c[m
+Author: Can Ibanoglu <can@howyoucod.in>
+Date:   Tue Nov 12 00:52:05 2013 +0200
+
+    Various typo and grammar fixes
+
+[33mcommit 127e07a460e2344a945e8e2200fa182102555fa8[m
+Merge: ebc1852 ec16fd6
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Sun Sep 8 12:40:40 2013 -0700
+
+    Merge pull request #68 from smcquay/fix-sudo
+    
+    Fixed placement of sudo command.  Thanks Stephen McQuay!
+
+[33mcommit ec16fd6103814441200bb761c4e208ebb8007fb1[m
+Author: Stephen McQuay <smcquay@apple.com>
+Date:   Sun Sep 8 10:07:34 2013 -0700
+
+    fixed in right place
+
+[33mcommit 90889a2049e8f270925cf185005831c453b5296b[m
+Author: Stephen McQuay <smcquay@apple.com>
+Date:   Sun Sep 8 10:05:49 2013 -0700
+
+    Revert "fixed placement of sudo command"
+    
+    This reverts commit 87433dc3bb040e605d26141be40acb15e78576a7.
+    
+    Lynn told me where to properly fix this.
+
+[33mcommit 87433dc3bb040e605d26141be40acb15e78576a7[m
+Author: Stephen McQuay <smcquay@apple.com>
+Date:   Sun Sep 8 08:30:23 2013 -0700
+
+    fixed placement of sudo command
+    
+    The sudo was giving root privilidges to curl rather than python (which needed
+    them). Secondly, the -O option was saving the file to disk rather than passing
+    it into python on stdin.
+
+[33mcommit ebc1852c8dcb3f1cbbacea5b34e5e7b8cce8e416[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 20:35:11 2013 -0700
+
+    noted where to put your user/pass for psql
+
+[33mcommit 49bb10c976d8151c216580f1d84e4696e4bc77bc[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 20:34:47 2013 -0700
+
+    fixed more psql errors
+
+[33mcommit 578e8b4a85cd60eabc1413bdd23b94da55b58161[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 20:24:21 2013 -0700
+
+    fixed ubuntu postgres command
+
+[33mcommit 6df89e61b6d363b702f5aae75074d5adb357c1f7[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 19:57:50 2013 -0700
+
+    generated html
+
+[33mcommit 73300077e36f4a40f6b5f26c60a899a7a14d1922[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 19:50:50 2013 -0700
+
+    updated scraper sh
+
+[33mcommit b0fa4a247106b964d41e698e39219dfea94e29ea[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 19:49:11 2013 -0700
+
+    added psql instructions
+
+[33mcommit 5addbb82faf1f7c91ef703bec951c5308c24cc1f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 19:20:09 2013 -0700
+
+    fixed URLs and xpaths for site
+
+[33mcommit 858d74759fc7207e22b63f6f30041582d015c8ea[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 19:16:42 2013 -0700
+
+    updated readme folders for scrape
+
+[33mcommit 67945acc5b3116be958f449d463a46a39c49674c[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 19:15:28 2013 -0700
+
+    added personal sublime folders to gitignore
+
+[33mcommit 76aa8ab240d441b5c1749d39f11d9f14b75a443b[m
+Merge: 1905cf8 1618c5b
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 19:12:52 2013 -0700
+
+    Merge branch 'master' of github.com:econchick/new-coder
+
+[33mcommit 1905cf8260d80ac35c88a4cd3fa3fcc25abb4c35[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Sep 7 19:12:25 2013 -0700
+
+    fixed directory locations and scraper xpaths
+
+[33mcommit 1618c5bed1cfc94897eec6d3117df1d76b79f9cc[m
+Merge: f3b98c1 4b54775
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Sat Sep 7 00:10:20 2013 -0700
+
+    Merge pull request #67 from esacteksab/master
+    
+    docs folder was renamed to website, but README was not updated
+
+[33mcommit 4b547753da5ea70e3f1ec7a792af8a138892edfe[m
+Author: Barry Morrison <b@rrymorrison.com>
+Date:   Fri Sep 6 21:49:45 2013 -0700
+
+    docs folder was renamed to website, but README was not updated
+
+[33mcommit f3b98c13fa27011e220b69e7aace65ee8cb84edc[m
+Merge: 4afc03c 6509b85
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Wed Sep 4 13:18:39 2013 -0700
+
+    Merge pull request #46 from talam/master
+    
+    Edits to DataViz Tutorial.  Thanks @talam!
+
+[33mcommit 4afc03cae4a186267936f14dfa63b27fc4e20ec3[m
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Wed Sep 4 16:01:35 2013 -0400
+
+    Fix small issue
+
+[33mcommit 32fe3778611ca051f1c087cdf7e8c90071cc7fda[m
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Wed Sep 4 15:34:24 2013 -0400
+
+    Fix link markup
+
+[33mcommit f20c5ab53ad2fbfc3d0ca1a536127c8f7377a247[m
+Merge: 58a57ae 0f8c3d4
+Author: Éric Araujo <merwok@netwok.org>
+Date:   Wed Sep 4 12:32:11 2013 -0700
+
+    Merge pull request #63 from hypertexthero/patch-1
+    
+    Fixed link.  Thanks Simon Griffee!
+
+[33mcommit 58a57aee083101a071fea47bc84cad41256cda41[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Wed Sep 4 12:27:33 2013 -0700
+
+    Update AUTHORS.md
+    
+    Added maintainers section; added @merwok
+
+[33mcommit 0ce1646fee45eea3c16e926b8606af62491222fc[m
+Merge: 4dedfb2 451de08
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Wed Sep 4 12:13:24 2013 -0700
+
+    Merge pull request #60 from aklapcin/fedora-setup
+    
+    typo in git instalation command on fedora
+
+[33mcommit 0f8c3d4254c1308b149a64527a95ddf54109ad9c[m
+Author: Simon Griffee <simon@hypertexthero.com>
+Date:   Wed Sep 4 18:11:17 2013 +0200
+
+    Fixed link
+
+[33mcommit 451de0806b29d3f8121abba821e2b72951ac47c3[m
+Author: aklapcin <ola@buzzcapture.com>
+Date:   Tue Aug 20 23:28:02 2013 +0200
+
+    typo in git instalation command on fedora
+
+[33mcommit 4dedfb277167e0b271ef75a654c4d3aa25ccbccf[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Aug 19 13:17:09 2013 -0700
+
+    generated HTML
+
+[33mcommit c05f26904e5a92c9df92da8417cd00c54f4b7720[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Aug 19 13:17:00 2013 -0700
+
+    correction for the correct class reference
+
+[33mcommit bdb89a26595855a720eaf076bd6f955ed06f34cc[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Aug 19 13:13:06 2013 -0700
+
+    fixed variable confusion
+
+[33mcommit f40c40f1a2da385b4d4e7abbbfb2ecbdbea140b2[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Aug 19 13:12:59 2013 -0700
+
+    moved git clone directions to setup-your-machine
+
+[33mcommit 4b04a53dfcef4676bfe768c9f304603741cd58f8[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 19:33:12 2013 -0700
+
+    fixed code snippets for psql
+
+[33mcommit 067a7242ad5cdcbec56c67d72f83eb894dbf9bf5[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 19:28:21 2013 -0700
+
+    fixed typos and improved clarity a bit
+
+[33mcommit d66cb0cd5c5881233044c8c500eaf765ed08e0d3[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 19:27:52 2013 -0700
+
+    renamed dir
+
+[33mcommit 4dd1a5b6459c611918046a9da6c908f1ceb8d796[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 15:21:35 2013 -0700
+
+    removed gui folder
+
+[33mcommit e1848cd5b1c8937725291e0d41cee758a5cda91c[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 15:21:04 2013 -0700
+
+    compiled html
+
+[33mcommit f1cb7c76878cc58226e22767726c83042e229a6c[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 15:20:52 2013 -0700
+
+    added draft link
+
+[33mcommit 58a73973d59a0332a553b4ea830094228d400282[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 15:17:30 2013 -0700
+
+    removed unnecessary files
+
+[33mcommit d83eae5e036395b2e51dc13adaa6678fec2be127[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 15:11:26 2013 -0700
+
+    initial commit of contributing instructions
+
+[33mcommit ffe6a78e149ba0baf9144f476c115744c6ae4eca[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 18 14:05:22 2013 -0700
+
+    initial redo of windows git, pip, virtualenv, and virtualenvwrapper setup
+
+[33mcommit fae70067bb20208964d3118c208228eb05772bcc[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 15:16:16 2013 -0700
+
+    first 4 pdfs for scrape
+
+[33mcommit fd40a055d331ec8c1d6f50898513eb52bce17e47[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 14:17:10 2013 -0700
+
+    fixed raw markdown links
+
+[33mcommit 3878f5fd32c948755cf6854f020489b053cc5adc[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 14:06:11 2013 -0700
+
+    undoing stupid n00b tricks
+
+[33mcommit ad0a0ab6235efb60b573045da4b7e95a7b0ef982[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 14:05:36 2013 -0700
+
+    removed .html
+
+[33mcommit ecbb66871d3d9c399b5f7157952f480f15a2677e[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 14:05:13 2013 -0700
+
+    such an idiot. html files were hiding because of gitignore. UGH
+
+[33mcommit 6eb8a8ca6c4758464a4914222eeec8d9309fed26[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 14:02:12 2013 -0700
+
+    moar n00b git moves
+
+[33mcommit 64ca7b76af5ccd8405e1888cba56d96686353f71[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 13:59:53 2013 -0700
+
+    blarg
+
+[33mcommit 3fb4130942c0d0cf8e87dc88e0cabb9a3df0324d[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 13:57:58 2013 -0700
+
+    n00b trick to try and push these folders up to github
+
+[33mcommit 08d16458a4eaf8cb1b52ab8960411052fede3ffc[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 13:46:29 2013 -0700
+
+    git is hard.
+
+[33mcommit 801b950341752fb122212aeebb3a070112461cde[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 13:44:17 2013 -0700
+
+    ugh I have no idea what I'm doing.
+
+[33mcommit ed96508951f5abb19094476b17f59c46dcbfb419[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 13:42:16 2013 -0700
+
+    updated gitignore
+
+[33mcommit 5de3fc8a842ff99bc7f5d6f85129d7be03c6096f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 13:40:52 2013 -0700
+
+    Adding compiled portion of site
+
+[33mcommit 771b13a7b417857d8be35538c434c1e63c3948f2[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 13:24:30 2013 -0700
+
+    PDFs for DataViz
+
+[33mcommit d08cb26a5e636f2c15506e832ad0efcc12ab7e44[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 13:23:39 2013 -0700
+
+    Initial start for workshop kit
+
+[33mcommit a1cd0a5e2575dc1081df315aea60ee87b2bb9bf1[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Aug 15 12:23:59 2013 -0700
+
+    Renamed docs folder to website for clarity
+
+[33mcommit 776ce6c5a655b7bf6c71ba2244428a16ec97c943[m
+Merge: ebe327e b6b7b5a
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 11 16:32:46 2013 -0400
+
+    rearrangement of folders
+
+[33mcommit b6b7b5a032bf5ff7e822bacf25c3b8daa75658ed[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 11 16:26:34 2013 -0400
+
+    fixed link typos
+
+[33mcommit 86d52ba7c6cd1f10fc347e4bb989b0d5d7fdf29b[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Aug 11 16:24:23 2013 -0400
+
+    fixed links to save progress
+
+[33mcommit ebe327e705f55274bb1a9908a5c9b0af0d4550cf[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jul 29 09:54:11 2013 -0700
+
+    fixed broken link to "Save your progress"
+
+[33mcommit 0e674489144f980d78ff021ae2da0781410f9f4d[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jul 29 09:50:32 2013 -0700
+
+    fixed About page link, added Piwik
+
+[33mcommit 7696be5f07ea913b016442054d30cef116953ac0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jul 29 09:49:45 2013 -0700
+
+    URL fix
+
+[33mcommit b13a772ca0970add362905693a08b9ef2356e008[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jul 29 09:49:19 2013 -0700
+
+    removed _site folder because eff git
+
+[33mcommit 72cd95b09187b2acc14f51e46222719591c788f3[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jul 29 09:46:44 2013 -0700
+
+    I hate gitignore
+
+[33mcommit aae8708b649afc87c133f3d3b513baa2050dd58d[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jul 29 09:44:56 2013 -0700
+
+    added _site/*
+
+[33mcommit ce30c0c43ac245060c6f590cb8f2e6d7883fb5be[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jul 29 09:42:38 2013 -0700
+
+    added _site
+
+[33mcommit 43112a5458b09345b447748827b3b7cf7d516e71[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:57:54 2013 +0200
+
+    donate button
+
+[33mcommit a21cc55ffe00f4a2531ace65f6cd176fc58609ac[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:57:24 2013 +0200
+
+    donate button javascript
+
+[33mcommit 7fcb482afa8f7ae3e2908e1ef6e99ef9368e41f7[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:57:07 2013 +0200
+
+    fix docstrings
+
+[33mcommit cf48998df0546a2ffb4efb06bbde7dfae19ffb22[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:56:43 2013 +0200
+
+    adjusting of headers and add donate button
+
+[33mcommit 638a7d78efd7ecf1eb4a2e4ed0c4cf63d5aedbbb[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:56:21 2013 +0200
+
+    initial of how to run bot + tests
+
+[33mcommit 9e4244b4c4e618ea8eeb110d4e821f70095ec999[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:56:11 2013 +0200
+
+    clean up tutorial language
+
+[33mcommit 2735e15b5b0954e4124cbb410498863061436341[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:55:57 2013 +0200
+
+    clean up tutorial language
+
+[33mcommit 80d968ae535ed19ef0486a1a88da132f319bff4e[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:55:43 2013 +0200
+
+    link fix
+
+[33mcommit 225707f8e3d55a1b22e98de2736d2dce456007ed[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:55:35 2013 +0200
+
+    link fix
+
+[33mcommit a55b25c0693106dc499a9da073e741de36274b7b[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:55:29 2013 +0200
+
+    link fix
+
+[33mcommit afab9edbd0da804f3810ae089c910314e0a45ddc[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:55:21 2013 +0200
+
+    moar typos
+
+[33mcommit bfb90de5ab9f8502a64711fa0307850d14f6cb8d[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:54:00 2013 +0200
+
+    typo fixing
+
+[33mcommit 403945222ea856b3aa9ccc40160acf412b7efc60[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:53:47 2013 +0200
+
+    added info for where to go from here with networking
+
+[33mcommit 5ea3553cc8f0c49e7717a96e2b5db8049edc2d6f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:53:23 2013 +0200
+
+    IRC screenshots
+
+[33mcommit 60f054efec556143933d0067e3362463ce25cc69[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:52:40 2013 +0200
+
+    Add desc for table of contents
+
+[33mcommit 7b8d366a7635cc785856b9cd2f2b62f7ee9047bb[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:52:15 2013 +0200
+
+    Donate button
+
+[33mcommit 3ec33397c72467c9a3ab68761ab96b9b6ecef26e[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:52:02 2013 +0200
+
+    Smart quotes.
+
+[33mcommit 9c2ab5bc4d63b8a0cbbb5f5ddc3ccf690e3ab82e[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 28 13:51:49 2013 +0200
+
+    adjust CSS formatting
+
+[33mcommit d173bca8cf927b874d6af0581a17863b7c7917ca[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Jun 25 19:51:10 2013 +0200
+
+    moar network drafts
+
+[33mcommit 9b18308a773380e9783f81862cae5641eb26d848[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 21 14:52:53 2013 +0200
+
+    wat
+
+[33mcommit 7bb9882562451926c8abe97d03a1f3a51a1df8aa[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jun 21 09:48:32 2013 +0200
+
+    updated broken windows links
+
+[33mcommit 0032d1fd9ddca934aed64b98e1ff07465b28a7ae[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jun 17 20:54:49 2013 +0200
+
+    bot.py scaffolding, factory class language
+
+[33mcommit 0bc39e33153d4674d5cb8fc4a0e23cae15ae0e26[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jun 17 20:21:42 2013 +0200
+
+    s/select/pick
+
+[33mcommit c85d2e5b0364cfb83f66997565f6963622024934[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jun 17 20:21:34 2013 +0200
+
+    docstrings added
+
+[33mcommit a64e9082c60ca053e56a10067c55e862edefd263[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jun 17 20:18:12 2013 +0200
+
+    s/quotation_selector/quotation_picker
+
+[33mcommit 9c53b06c29a109ae605e0791fc4c9dbe742af04e[m
+Merge: b78199d c4989ff
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Jun 17 20:15:49 2013 +0200
+
+    setup and settings.ini tutorial language
+
+[33mcommit c4989ffd5f0cccf9b99b9c6b94dabadce65e49ce[m
+Author: Hynek Schlawack <schlawack@variomedia.de>
+Date:   Sun Jun 16 15:30:14 2013 +0200
+
+    clientConnectionLost isn't used by endpoints
+
+[33mcommit 4de4f24a04e57150dc1199a08f0e95a45c446cfe[m
+Author: Hynek Schlawack <schlawack@variomedia.de>
+Date:   Sun Jun 16 14:03:56 2013 +0200
+
+    Use a cleaner plugin/service design
+
+[33mcommit a1946b8f4c91c2d7188bfcc49c560b446ca95e27[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Jun 16 15:01:25 2013 +0300
+
+    I should get over myself.
+
+[33mcommit c610886398ede966415c056826211c597d2b526a[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Jun 16 14:59:08 2013 +0300
+
+    updated order of authors
+    
+    because I'm OCD
+
+[33mcommit 6ee0a61d79c070886beb7bd583abe15495d7661d[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Jun 16 13:57:32 2013 +0200
+
+    Update Authors.md (finally)
+    
+    Added @zerok @alecxe @jairtrejo @infraredgirl and @hynek
+
+[33mcommit 1d798a87605ec1b9a34651afe9072b2d4e3d1bc0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Jun 16 13:47:25 2013 +0200
+
+    no need for two readmes
+
+[33mcommit dfcc7e77959273a700f6e79d262049cb97b06e0c[m
+Merge: bf9cf48 3537fbd
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Jun 16 13:43:23 2013 +0200
+
+    Merge branch 'twistedify-network' of https://github.com/hynek/new-coder into twistedify-network
+
+[33mcommit 3537fbdacaa4908a1c6af0dab9888e69691785c8[m
+Author: Hynek Schlawack <schlawack@variomedia.de>
+Date:   Sat Jun 15 17:37:30 2013 +0200
+
+    Apply recent Twisted best practices to network
+
+[33mcommit b78199da3d6b77359a0224fe50f5cd4fe42c025c[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 18:11:45 2013 +0200
+
+    whoops, accidently moved wrong scrape folder.
+
+[33mcommit 6c02334a16d7c18d1258e933b5ab269fdd3ff9b8[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:39:19 2013 +0200
+
+    moved old begin dir
+
+[33mcommit cfcd49c70809ce7308c3b6fcd36b0bd80adc6e1b[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:39:11 2013 +0200
+
+    donate link on about page
+
+[33mcommit da40d7178b6413bc34e68168eb160bae4e22bf7f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:34:49 2013 +0200
+
+    reorg'ed "begin" section
+
+[33mcommit d5259ba04e1078bc7fd19687a8eabe5c0fefc70b[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:27:05 2013 +0200
+
+    i don't even know why.
+
+[33mcommit bba9e5cd6465c5b8491fb06bb1e3eb3657dc0b1a[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:26:57 2013 +0200
+
+    api directory reorg
+
+[33mcommit 8df829d87385f27abac7394a431717c69f7f035f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:19:23 2013 +0200
+
+    new tag/archives
+
+[33mcommit 0246520c248a2a65cbc2ac93cc95250d68f6a30f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:19:09 2013 +0200
+
+    wtf I dunno
+
+[33mcommit f751b9ae3a637444536bed26bc0b42b975c94b14[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:18:34 2013 +0200
+
+    new donate button
+
+[33mcommit 91d036000bc5f60d1b0d57d09848c303646571dc[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 17:18:22 2013 +0200
+
+    reorg of scrape directory
+
+[33mcommit 4db223a9895d17609f103b783ee42120741bc05e[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 16:17:55 2013 +0200
+
+    intro edits
+
+[33mcommit 5fd1fa214780fd4f3cc7ce43572414db1ab96bef[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 15:06:16 2013 +0200
+
+    stupid typos
+
+[33mcommit 1db293c785fca2dff6c93f5deed2dfe63d9f54ae[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 14:48:56 2013 +0200
+
+    network link active
+
+[33mcommit 40b584bb6df8695964948fce66a25e7d0491d372[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 14:48:47 2013 +0200
+
+    docstrings added
+
+[33mcommit 3d0d9d8bb308f7b6a77a7a1087502ff40b975e46[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 14:48:35 2013 +0200
+
+    updated template for layout
+
+[33mcommit 459171da85de4650b1a62b2919a9822b5e153c29[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 14:48:20 2013 +0200
+
+    newly generated site
+
+[33mcommit 2f7f2917b096f6f7c1d4542eb6685272ec1fcb27[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 14:47:57 2013 +0200
+
+    Public draft of network tutorial
+    
+    for the poor souls to review for me.
+
+[33mcommit b1f9a5b8ee8f32000a40158de9213dc5b1c37856[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jun 15 14:47:27 2013 +0200
+
+    re-org of directories
+    
+    Made tutorial directories within _posts/ for easier organization and
+    sanity
+
+[33mcommit 360d5292c9b16011ca49226a0521536f892042e9[m
+Author: talam <tanviralam2@gmail.com>
+Date:   Sat Jun 8 16:25:58 2013 -0300
+
+    Changed install order.
+    
+    Numpy needs to be installed before MatPlotLib
+
+[33mcommit 6509b85c38ca935cd4b3edfddc5ca89f8f04a5a9[m
+Author: talam <tanviralam2@gmail.com>
+Date:   Wed Jun 5 23:04:35 2013 -0300
+
+    Update tutorial.md
+    
+    Corrected some grammar. Added in some code that was skipped over in explanation but in final tutorial source file. Left a TODO section as a place holder for author to write explanation for missing section of code.
+
+[33mcommit bf9cf48535790a14b86654773e44ef8f5349c573[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu May 30 19:04:57 2013 +0200
+
+    added pdfs
+
+[33mcommit 46255fe6262bb5355ed334feb11e758bd50dc5f0[m
+Merge: e19fe14 58e2c04
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu May 30 08:52:34 2013 -0700
+
+    Merge pull request #38 from beroe/patch-1
+    
+    Update tutorial.md
+
+[33mcommit 49e2603430dff961dadf9dd98a2c0caf91a2611f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu May 30 17:48:06 2013 +0200
+
+    updated setup
+
+[33mcommit e19fe146e673ec14f6fca01c3ed76106223b0cbf[m
+Merge: c44222a b24f5a3
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Apr 12 15:07:46 2013 -0700
+
+    Merge pull request #37 from djipko/master
+    
+    Add the legendary Peter Norvig's Sudoku solver to the list of resources
+
+[33mcommit c44222acfde21f54bf083d418855865aadaf6534[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Wed Apr 3 15:35:27 2013 -0700
+
+    typos caught by @Maggie-M
+
+[33mcommit b86391eb01ab4c24155ad125f61a3f353519419b[m
+Merge: a1cdfa6 574feba
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Wed Apr 3 15:31:29 2013 -0700
+
+    Merge pull request #40 from Maggie-M/edits
+    
+    Typo corrections and missing words.
+
+[33mcommit 574febad6a15995cb1518f9cfa500ce928fadca6[m
+Author: Maggie Mari <maggie.mari@continuum.io>
+Date:   Wed Apr 3 15:30:14 2013 -0500
+
+    Typo corrections and missing words.
+
+[33mcommit 58e2c049b4071d239c9ba5de41c7552ec8b9f4c9[m
+Author: beroe <haddock@mbari.org>
+Date:   Fri Mar 29 02:43:13 2013 -0500
+
+    Update tutorial.md
+    
+    Minor typo presumably: chuck of data instead of chunk of data
+
+[33mcommit b24f5a303e924d03008c23bedd17e1a477670df4[m
+Author: Nikola Dipanov <ndipanov@redhat.com>
+Date:   Tue Mar 26 16:51:25 2013 +0100
+
+    Add the solver by Peter Norvig to resources
+    
+    This patch adds the legendary Peter Norvig's sudoku solver in Python to
+    the list of resources to look up.
+    
+    Signed-off by: Nikola Dipanov
+
+[33mcommit a1cdfa6dfd11244aa671a66a35ee657dfcd25c03[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 25 20:04:02 2013 -0700
+
+    fixed broken link to st2
+
+[33mcommit b5a8c4c64bb266d65d0767af10938f068b486a17[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 25 19:15:06 2013 -0700
+
+    updated broken link
+
+[33mcommit 9aebb1ab43aa6484f7e81d0f77e380426e0d43e2[m
+Merge: f3913a1 066abff
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 25 07:03:58 2013 -0700
+
+    Merge pull request #33 from rodney757/patch-1
+    
+    fixed google maps link
+
+[33mcommit 066abffb7e6ec9e729470ba8378cb5690286e0ab[m
+Author: rodney757 <ewing.rj@gmail.com>
+Date:   Sun Mar 24 16:28:34 2013 -0700
+
+    fixed google maps link
+
+[33mcommit f3913a1df742bad55c323b030b0ef37322d8aa13[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 23 16:08:20 2013 -0700
+
+    hiding setup page until done but still want to update site!
+
+[33mcommit 66d33c96d3c5b0521def9580202f927ca12fe6cd[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 23 16:07:04 2013 -0700
+
+    new coders probably want life jackets thrown to them not at them, h/t @ncoghlan_dev
+
+[33mcommit d24f3c5e01af48d0ddb22e04b88b01b7f5f0dce2[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 23 13:48:34 2013 -0700
+
+    separated setup for Mac
+
+[33mcommit adb1ec08ce787a14327d3ac30f93bfd2be91d99a[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 23 10:29:28 2013 -0700
+
+    typo fix per https://github.com/jakubholynet
+
+[33mcommit 5e3ca3ad7775b1b3de916056cde33cff14c16246[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 23 10:28:50 2013 -0700
+
+    typo fix per https://github.com/jakubholynet
+
+[33mcommit d147ce1738d47a0f6978ef5b2eb8b753ad54c83b[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 23 10:22:31 2013 -0700
+
+    finally thanking my contributors
+
+[33mcommit a82ad06f191e263f14706c4668204dc2737ec134[m
+Author: Lynn Root <lroot@redhat.com>
+Date:   Thu Mar 21 21:02:51 2013 -0700
+
+    updated about page
+
+[33mcommit 699b3b4de65d41fdca50f61ab50bb852e5e40405[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 23 09:02:55 2013 -0700
+
+    adding sample matplotlib graph for api tutorial
+
+[33mcommit 9251d466a0afe95e1346510d5db4e416698b3c43[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 23 08:59:54 2013 -0700
+
+    fixed loop
+
+[33mcommit 3092c711c5fb8efe6145735a0f2c1fdda2187ca1[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 21:14:29 2013 -0700
+
+    removed $ prompt
+
+[33mcommit fb0bbd6aeb86138d710da5577965301e57423cd1[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 21:13:26 2013 -0700
+
+    bullet formatting
+
+[33mcommit 812b72f79fbbdb826be24f02727dbadee02c99db[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 21:08:13 2013 -0700
+
+    need a compiler for mynt
+
+[33mcommit 7c405f78bee56b1b72f85cff69be4065d4d269e6[m
+Merge: 7a075d4 0454e2a
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 21:03:35 2013 -0700
+
+    finally merged IRC branch
+
+[33mcommit 7a075d43e307c82ed58a02a3e5f6dd0c254f6f24[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 20:53:35 2013 -0700
+
+    moving files
+
+[33mcommit 200f0ee2099f7d214a505a192e6d1d6b84c033dc[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 20:50:22 2013 -0700
+
+    removed extraneous files
+
+[33mcommit b279cee56f1fddbf7be8335c7fce4fa309a23cfa[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 20:45:45 2013 -0700
+
+    fixed installation process for ubuntu and such
+
+[33mcommit aea4f5fef7e20fdc36a904190c9f8071f15a9a30[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 20:44:59 2013 -0700
+
+    fixed broken link to git
+
+[33mcommit 2b8e63c025958786ad00b4f8507ddecffe30ea98[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 16:17:20 2013 -0700
+
+    corrections for typos
+
+[33mcommit 8898c7c97cb48939849ac74d0001bad92b4b6f0d[m
+Merge: 36661cc 95aedbc
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 16:14:37 2013 -0700
+
+    Merge pull request #15 from ironfroggy/review-of-dataviz-part-2
+    
+    Review, suggestions, and corrections for DataViz Part 2
+
+[33mcommit 95aedbc8855379772809083b50184c4c1b45e818[m
+Author: Calvin Spealman <ironfroggy@gmail.com>
+Date:   Mon Mar 18 14:55:33 2013 -0700
+
+    Review, suggestions, and corrections for DataViz Part 2
+
+[33mcommit 36661ccfa72c3e19e4a105310c502fc842a19cb7[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 14:48:38 2013 -0700
+
+    updated for with keyword
+
+[33mcommit c9c48f5e25bbc40fd71b0217349e28dda5793b1c[m
+Merge: db11964 f4c184b
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 14:47:37 2013 -0700
+
+    switched to with for opening file
+
+[33mcommit db11964e2cd1a221df6874e8221a957e514552ac[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 14:43:20 2013 -0700
+
+    typo fix
+
+[33mcommit feabb42a099c85b41d5b89ba1142ed7ea4a66712[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 14:14:27 2013 -0700
+
+    fixed req versions
+
+[33mcommit 0d928fe3eae5463b0e0bc1eaa0e4fd752c0f3549[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 14:10:58 2013 -0700
+
+    moved TODOs to README
+
+[33mcommit e4235ccf12b889649955d438696afb3b4c547de4[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 14:10:10 2013 -0700
+
+    added contributing headline
+
+[33mcommit 3edc24dca8c21dfc3d83f1bad2452fcc0011591e[m
+Merge: 5149407 e514331
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 14:02:27 2013 -0700
+
+    Merge pull request #5 from j-h-l/master
+    
+    Fixed few typos in dataviz part 1 and 2
+
+[33mcommit f4c184bb276b743c9980aafd9cf9dffbf8a12826[m
+Author: Calvin Spealman <ironfroggy@gmail.com>
+Date:   Mon Mar 18 13:59:38 2013 -0700
+
+    Fix a single character typo
+
+[33mcommit 5149407430c238284084502f22405c5aaad15fa1[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 13:54:26 2013 -0700
+
+    added data viz examples
+
+[33mcommit 7b0f484e7313b943c5ccdc3e513a89ded3345e3d[m
+Merge: 809e870 2ea829c
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 18 13:40:44 2013 -0700
+
+    Merge pull request #7 from ironfroggy/build-help
+    
+    Build instructions in README.md and requirements.txt file. Make contribu...
+
+[33mcommit 2ea829c44922b6f1bca8f857b26ee1ad821fa112[m
+Author: Calvin Spealman <ironfroggy@gmail.com>
+Date:   Mon Mar 18 13:38:54 2013 -0700
+
+    Move requirements.txt for building the docs into docs/
+
+[33mcommit c94de5c38b77658f4cc9ceebc5428e5815bc5aaf[m
+Author: Calvin Spealman <ironfroggy@gmail.com>
+Date:   Mon Mar 18 13:38:18 2013 -0700
+
+    Parity between code and example comments
+
+[33mcommit 92d5d47563aa304d3d5adc59e35d56527f0320b2[m
+Author: Calvin Spealman <ironfroggy@gmail.com>
+Date:   Mon Mar 18 13:33:43 2013 -0700
+
+    Suggestions and minor picky terminology corrections for dataviz part 1.
+
+[33mcommit f598c0ce8bd540103f182e557f4b81025a53bd10[m
+Author: Calvin Spealman <ironfroggy@gmail.com>
+Date:   Mon Mar 18 12:04:27 2013 -0700
+
+    Build instructions in README.md and requirements.txt file. Make contribution a little easy to start.
+
+[33mcommit e5143312d5eb5fcfe6842d1b1a31145b7212aed8[m
+Author: Jeehyung Lee <jeehyungl@gmail.com>
+Date:   Sun Mar 17 04:26:04 2013 -0700
+
+    Fix typo in dataviz part 1 and 2
+
+[33mcommit 809e870dafe425d905e0f3de3ab05a3a68ee188e[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 16 14:24:18 2013 -0700
+
+    added tracking
+
+[33mcommit 5cdffb00045a091babf9c36ec6642250f188ba06[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 16 14:23:29 2013 -0700
+
+    added analytics
+
+[33mcommit cb33da905209f3fd48b6364bbab295852a23e4a0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 16 13:31:00 2013 -0700
+
+    updated todos
+
+[33mcommit 4392b5602b9befc1a21d9449eff18ec14ae71364[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 16 13:29:11 2013 -0700
+
+    updated docs
+
+[33mcommit faa842a0bd048b2a0740d644b211df55810eef4c[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 16 07:07:22 2013 -0700
+
+    requirements and fixed minor things
+
+[33mcommit 297bae4f5085a1fe3e8cd2f05a42870811a522e5[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Thu Mar 14 12:02:28 2013 -0700
+
+    fixed typos and clarity
+
+[33mcommit 90b4bdb388480529b1524b6afedbb0fab711fecb[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Mar 10 21:51:20 2013 -0700
+
+    darkening link colors
+
+[33mcommit 37fc8ae244182e9af31579511db8ce5c2492c931[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Mar 10 21:39:28 2013 -0700
+
+    switching colors
+
+[33mcommit f04af10fd65f4d11a68950dc4da01e18bef6eb27[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Mar 10 20:08:55 2013 -0700
+
+    update
+
+[33mcommit 7e6cb4abec7a22208c22a92a300a977f880ab1a0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Mar 10 20:06:23 2013 -0700
+
+    fixes
+
+[33mcommit 88c32be3211e3334d9707bef2d12f0b3c024956e[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Mar 10 18:14:29 2013 -0700
+
+    I should really commit more often
+
+[33mcommit f685d616f3780b086faae71ada13528b385ae7a2[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 9 14:46:47 2013 -0800
+
+    fixed installation issues
+
+[33mcommit bd627a79076f52549d8efc503448a328b7ab88e0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 8 16:47:56 2013 -0800
+
+    forgot to commit the sample data
+
+[33mcommit 43d58ce8a2c6a2b55bd22bf644426b2edebcb334[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 8 15:59:24 2013 -0800
+
+    COMMIT ALL THE THINGS BEFORE I EFF UP AGAIN
+
+[33mcommit 4211f6488c86c66cb446f313a5525ac3da6d815f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 4 15:23:26 2013 -0800
+
+    no need for json output
+
+[33mcommit b03cf975d3d4ef57ff431dde35099bc97508f6e7[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 4 15:22:39 2013 -0800
+
+    Todo list
+
+[33mcommit 30290a13eb00ba4c04a2029ab96b5ffba0ce4da0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 4 15:22:17 2013 -0800
+
+    scrapy
+
+[33mcommit 2fc1f99a6ff69a392396649e2362334bce53be85[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Mar 4 15:21:15 2013 -0800
+
+    lots o tutorial stuff that I should have committed earlier
+
+[33mcommit ec0331d138a1453521d9a0979a2f304948ace5a2[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 21:19:07 2013 -0800
+
+    reorg of docs
+
+[33mcommit 555cae05c8935410d9fe6d71f192482b0ae8394f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 21:14:44 2013 -0800
+
+    spacing and such
+
+[33mcommit 7412a578e5ac3663e7f913c8807e33699c13dde2[m
+Merge: ce7beec 040b63e
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 19:30:47 2013 -0800
+
+    Merge git://github.com/infraredgirl/new-coder into ana
+
+[33mcommit ce7beecb6ee9947ba509df13568a22e092b2ed61[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 19:30:28 2013 -0800
+
+    start of gui docs
+
+[33mcommit 387105439f940a168526608bc9020d71af05382d[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 19:29:59 2013 -0800
+
+    start of gui
+
+[33mcommit 040b63e78c3648aed8396fac1f1994f926554bae[m
+Author: infraredgirl <akrivokapic1@gmail.com>
+Date:   Sun Mar 3 02:38:25 2013 +0100
+
+    Added GUI
+
+[33mcommit f848c5f47068b9c7290b435a0bdc821762a6fe88[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 16:58:39 2013 -0800
+
+    added cron job
+
+[33mcommit 61c6a1af50350ed73623e923d4e9fc4298a7c4d0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 16:28:41 2013 -0800
+
+    reorg of file structure
+
+[33mcommit 0012538be88a9330a6cd1dd4acc3e6409de91b82[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 16:25:53 2013 -0800
+
+    MORE THINGS
+
+[33mcommit 72bad2dd5d15e1eea6e4eebbd67c437a48fe1a51[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Mar 2 16:25:12 2013 -0800
+
+    commit all the things
+
+[33mcommit d7ac68b4003b6d77f8f90de185508b5527df960b[m
+Merge: 54c1b81 af2f997
+Author: infraredgirl <akrivokapic1@gmail.com>
+Date:   Sat Mar 2 21:08:27 2013 +0100
+
+    Merge branch 'master' of https://github.com/econchick/new-coder
+
+[33mcommit 27d1cef9dda7797b418cb4c790a835eb966afb46[m
+Merge: ec30ccc 6b6ad71
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 16:22:53 2013 -0800
+
+    initial commit of alex's work
+
+[33mcommit ec30ccc8dd803ddbf6e871f8d08b491de01e7028[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 16:22:04 2013 -0800
+
+    blarg
+
+[33mcommit b60780b9291530927160196d224044fdde208c68[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 16:21:20 2013 -0800
+
+    reorg of site
+
+[33mcommit 6b6ad71c97a93a7057e65eb2643f20003cb2a964[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 11:47:56 2013 -0800
+
+    commit happy
+
+[33mcommit fe65dd0d308f104e0c26275dba3c1a3e3b5953e3[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 11:29:09 2013 -0800
+
+    settings
+
+[33mcommit 69669a02b053a9d53ade05a1a4ae3d515b56e30a[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 11:28:49 2013 -0800
+
+    initial docs
+
+[33mcommit cf0e4716c88767f3f4c1e82c9910fee2cd0b1b85[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 11:26:16 2013 -0800
+
+    NEW FONTS!
+
+[33mcommit 75d5ed4dc008b7c3a2704cc60748734e64fba1cc[m
+Merge: 42d86c6 359bead
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 10:42:18 2013 -0800
+
+    Merge git://github.com/alecxe/new-coder into alex
+
+[33mcommit 42d86c6435a997f268093a392c8b66a597fc6ef8[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Mar 1 09:46:55 2013 -0800
+
+    fixed ribbon and such
+
+[33mcommit af2f9970b280028cee202fe19d3874f92a1d7819[m
+Author: Lynn Root <lroot@redhat.com>
+Date:   Fri Mar 1 08:22:23 2013 -0800
+
+    moving around docs + mynt
+
+[33mcommit efca084ba6fe91fd9fa2abeb9c6844fae8828b71[m
+Author: Lynn Root <lroot@redhat.com>
+Date:   Thu Feb 28 14:39:37 2013 -0800
+
+    first pass at static page
+
+[33mcommit 359bead2246d6ed71e22a3a324e5b42223efb743[m
+Author: Alexander Afanasiev <afanasieffav@gmail.com>
+Date:   Thu Feb 28 16:36:31 2013 +0400
+
+    Made SudokuUI class more clear
+
+[33mcommit 6a3ded6e7e45bf2b958715bb32214dd6803ee3e5[m
+Author: Alexander Afanasiev <afanasieffav@gmail.com>
+Date:   Thu Feb 28 16:01:42 2013 +0400
+
+    Extracted SudokuBoard class, using private methods where possible
+
+[33mcommit 4d6d053892d58b68ffebe5ee345c55d2560afcca[m
+Author: Alexander Afanasiev <afanasieffav@gmail.com>
+Date:   Thu Feb 28 14:47:57 2013 +0400
+
+    Removed README
+
+[33mcommit eaa690701198e74e6856683a56d3dfbf59413e9c[m
+Author: Alexander Afanasiev <afanasieffav@gmail.com>
+Date:   Thu Feb 28 14:46:31 2013 +0400
+
+    Parsing arguments via argparse. Updated tests.
+
+[33mcommit 41076e7106ab7cc825d6ce970a1abaa51e1986b1[m
+Author: Alexander Afanasiev <afanasieffav@gmail.com>
+Date:   Thu Feb 28 14:27:22 2013 +0400
+
+    Parsing arguments via argparse
+
+[33mcommit d525893b55afc672036172ccce452921d8fd9ba6[m
+Author: Alexander Afanasiev <afanasieffav@gmail.com>
+Date:   Thu Feb 28 14:05:59 2013 +0400
+
+    Initial commit for gui project
+
+[33mcommit 2de0d39800b510580683f17d2f12f0b84b22abcb[m
+Merge: 4c25809 05ad932
+Author: Alexander Afanasiev <afanasieffav@gmail.com>
+Date:   Thu Feb 28 11:15:19 2013 +0400
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 54c1b81d9ac276ce0fdb50da46eac5b87f6292b0[m
+Author: infraredgirl <akrivokapic1@gmail.com>
+Date:   Tue Feb 26 01:05:40 2013 +0100
+
+    Fixed tests and amended README
+
+[33mcommit 4cb5b10a734512d3a34aed3ce26a7b9aad55d8e0[m
+Author: infraredgirl <akrivokapic1@gmail.com>
+Date:   Tue Feb 26 00:20:57 2013 +0100
+
+    Sudoku - first draft
+
+[33mcommit 05ad9326629d585a20f36ce26b70aac049091f45[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Feb 23 17:57:10 2013 -0800
+
+    added map explanation
+
+[33mcommit 61c67b19177e81bbfeb09c114928d30975c7a869[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Feb 23 17:56:58 2013 -0800
+
+    made variables a little more clear
+
+[33mcommit c0baf24422f1cef535a6fed0430226586bb84d8f[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Feb 23 16:02:55 2013 -0800
+
+    removed yticks() because it was unneeded
+
+[33mcommit 4663a04a5ced4c4a047219e38cafd2f651267007[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Feb 23 16:01:56 2013 -0800
+
+    added visualize functions and pics
+
+[33mcommit 64b9d972f6b66d24bfad5b73c1d39a177c0305d2[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 21:31:13 2013 -0800
+
+    for-loop challenge added
+
+[33mcommit a87de31c73ff65cb05588fa86401669c032a2c03[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 21:29:20 2013 -0800
+
+    building out visualize portion of tutorial
+
+[33mcommit 1d7de018aea521833f04e5effd83acded0623b33[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 21:29:02 2013 -0800
+
+    building out visualize portion of tutorial
+
+[33mcommit 03265fff81e03d1e1204ece650929403bee852b5[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 21:09:39 2013 -0800
+
+    because numbering in MD is hard
+
+[33mcommit 41d7e7a7be52a4e59bf0c915b986ff32ad5bae1a[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 21:05:30 2013 -0800
+
+    fix code block issues now? how about now?
+
+[33mcommit 88226be0005c9b7bad6f58b66ac47c42fc851fe0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 21:04:44 2013 -0800
+
+    fix code block issues now?
+
+[33mcommit 5cd9be4fb4314f6b4629f10e42205537e9de58af[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 21:03:12 2013 -0800
+
+    fix code block issues, hopefully
+
+[33mcommit 20626a071e89569b464cfcd426d8edcfec15bab9[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 21:00:01 2013 -0800
+
+    cleaning up tutorial source
+
+[33mcommit 5c0a527f02bbfa83e32dd983032a349628a851c9[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Tue Feb 19 20:59:50 2013 -0800
+
+    updated parse portion with more interactive check points and bash examples
+
+[33mcommit 4c2580939c76faab01b5f0788e6b727c55a574f2[m
+Author: alecxe <afanasieffav@gmail.com>
+Date:   Thu Feb 14 15:07:26 2013 +0400
+
+    Added some contract tests
+
+[33mcommit 7e53990e20b4b677d5c7c3828e9c425c6fcdc9a8[m
+Author: alecxe <afanasieffav@gmail.com>
+Date:   Thu Feb 14 14:48:07 2013 +0400
+
+    Minor code improvements
+
+[33mcommit 335ba96d77175bdd99b89fbbb9d68ed26c8dc2c5[m
+Author: alecxe <afanasieffav@gmail.com>
+Date:   Thu Feb 14 14:42:36 2013 +0400
+
+    Added livingsocial.com scrapy project with pipelining to the database.
+
+[33mcommit e727d19add46d6ff7d3f2750ed72db50ab53260e[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Mon Feb 11 09:04:17 2013 -0800
+
+    added python markdown syntax
+
+[33mcommit add3f066f58cfe9ee5630ef5cb8509979884ef24[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 18:32:29 2013 -0800
+
+    first draft of tutorial
+
+[33mcommit 44bb6c7ff7dcd7d86fe4417db8e7a25cf434dc99[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 18:32:09 2013 -0800
+
+    edit for clarity
+
+[33mcommit 9104dfafa9b038436f9d96265b9c4a44acb44881[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 17:04:30 2013 -0800
+
+    UGH markdown typo
+
+[33mcommit 5f7d65c0c111d31a817108b5a0e8a19bc664a6f2[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 17:03:54 2013 -0800
+
+    made 'don't forget' more prominent
+
+[33mcommit 89a8e336723d6ff4499b1d03510e4c689da3efe0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 17:02:16 2013 -0800
+
+    fleshed out a bit more
+
+[33mcommit 6beb0af19a8776f541144b194c321c37d2cb3443[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 16:34:45 2013 -0800
+
+    added reqs
+
+[33mcommit 44cec2f567cdbf26707da5bb970172c02e709bce[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 16:28:34 2013 -0800
+
+    added usage to readme
+
+[33mcommit e31b8af06d44ccf787ab6a60a597166922034477[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 16:18:09 2013 -0800
+
+    cleaning up
+
+[33mcommit c7c0aca8a9aad1f9305dd43595a6bb6e0ea2e1d0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 16:16:05 2013 -0800
+
+    move parts to tutorial source
+
+[33mcommit ddd87dc41ad1be1deb82530239b593c174cc3e97[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 16:14:11 2013 -0800
+
+    sample data for dataviz
+
+[33mcommit 1e691af02d25ca0b138d23ec00a9112fefc0fb7c[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 16:13:32 2013 -0800
+
+    part III of dataviz
+
+[33mcommit 03353a93b6ec92de5d3ae7d49a23fbfad2e8da0a[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 16:10:08 2013 -0800
+
+    part II of dataviz
+
+[33mcommit e35659b90363e8744b0a44fe90826fe606a2a793[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 16:02:41 2013 -0800
+
+    part I of dataviz
+
+[33mcommit ceecfe6d1e5898dbf15311e84bbf00b0e86e90a4[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sun Feb 10 15:58:55 2013 -0800
+
+    initial commit of full source
+
+[33mcommit 0454e2ac4c60282414a85d3841f41dd0ed4d910d[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Sun Feb 10 11:28:19 2013 -0500
+
+    Removed incomplete quotation.
+
+[33mcommit 89b717ff825ed0ae85576537235578e43f8a58dd[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Fri Feb 1 10:11:37 2013 -0500
+
+    Corrected errors in quotes file
+
+[33mcommit 20c54d57863324a9808248c5cf3d5263af184f48[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Tue Jan 29 15:42:40 2013 -0500
+
+    Fixed formatting.
+
+[33mcommit 8982f17e9b68eec200d0c68536e69e0a272d7c20[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Tue Jan 29 15:41:27 2013 -0500
+
+    Fixed formatting.
+
+[33mcommit 8393057f8b877e16459f116e9f416a6bfbb856f5[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Tue Jan 29 15:38:50 2013 -0500
+
+    Make README reference virtualenvwrapper
+
+[33mcommit 8ee297260bcd646ec532a6febeb108d69751ecf8[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Sat Jan 26 15:10:32 2013 -0500
+
+    Let's try that again, with line wrapping.
+
+[33mcommit 593dbbcf3f9ab2dd31c062c1a178a8b23f16f227[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Sat Jan 26 15:06:22 2013 -0500
+
+    Added a license
+
+[33mcommit 200dc10ee79452fad0fff92ba76e1fdc4dc8ebfa[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 11:49:08 2013 -0800
+
+    freaking typo
+
+[33mcommit 4e3bda22b1d120f031a65c7ff212a8aa3741a1b0[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 11:48:29 2013 -0800
+
+    fixed markdown syntax
+
+[33mcommit b375f9518747648a8ccd49744ccaed9711e40853[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 11:44:41 2013 -0800
+
+    added dir layout
+
+[33mcommit 82cc4bcb34fd053341d20bb95bb68d353298f802[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 11:38:50 2013 -0800
+
+    starter README
+
+[33mcommit fa7d481ede6a0de8d7deebbd315226f9b3749fb9[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 11:36:52 2013 -0800
+
+    starter README for GUI
+
+[33mcommit bd6e4a660adf012e17b2ce512a94b4479f5439e6[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 11:26:57 2013 -0800
+
+    starter README
+
+[33mcommit 4044ed17cf7bfa1e73244ce3738b103f21711c56[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 11:01:54 2013 -0800
+
+    initial README and reqs
+
+[33mcommit b3f7e2907f611f166f8fc5448ab5f8cf86f1cfa8[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 10:36:07 2013 -0800
+
+    starter README for APIs project
+
+[33mcommit 75d75174431ff3b82088d1f789f88111ec79d9d3[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 09:50:26 2013 -0800
+
+    requirements for web scraping project
+
+[33mcommit c33079ef29a222989eb82b1f7d88744031099808[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 09:45:43 2013 -0800
+
+    added authors file
+
+[33mcommit 888e1592bed69f459f3585d17c6fdd4de83d5647[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Sat Jan 26 09:45:30 2013 -0800
+
+    added zlib png license
+
+[33mcommit 8ed36c465e239a0abe4d5520ec681cc3ed3f5b76[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jan 25 13:47:25 2013 -0800
+
+    Update README.md
+
+[33mcommit 7e74eb33dbdc7eaaca9694e942222208f5dbbca4[m
+Author: Lynn Root <erin.lynn.root@gmail.com>
+Date:   Fri Jan 25 13:35:16 2013 -0800
+
+    Initial commit
+
+[33mcommit fe6e55cc71d216310f4e8a3c82cbc5179b7f3589[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Jun 23 12:39:10 2012 -0700
+
+    cleanup from moving files
+
+[33mcommit ee88fcbbb2d093924a4c83ef9551be18cbaa69d5[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Jun 23 12:21:39 2012 -0700
+
+    fun fact: __init__.py is important
+
+[33mcommit fa249ec9852641c109dd819fc785cff837f92f21[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Jun 23 11:59:36 2012 -0700
+
+    Started using twistd and removed custom daemon code. Removed unused password option.
+
+[33mcommit 27231940259f5a041298d8d1cf0353c56209de1b[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Wed Apr 18 18:49:53 2012 -0700
+
+    Fixed incomplete quote
+
+[33mcommit 2b568bca43c41580ace2578d1bcd9b92e37255f4[m
+Author: jessamyn <jessamyn@dev.urbanairship.com>
+Date:   Thu Mar 29 00:39:12 2012 +0000
+
+    Changed shebang to the more elegant version.
+
+[33mcommit 6a4e50a03c481f74881c5c25f10ee0eebbb0187e[m
+Merge: 05a3d05 8159c43
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Wed Mar 28 13:40:44 2012 -0700
+
+    Merge pull request #3 from NickPresta/patch-1
+    
+    Selecting a random quote more elegantly
+
+[33mcommit 8159c43990529ee7913612719894ede8ba205bef[m
+Author: Nick Presta <nick@nickpresta.ca>
+Date:   Wed Mar 28 09:50:52 2012 -0300
+
+    Selecting a random choice more elegantly without the need to call seed(), len(), etc.
+
+[33mcommit 05a3d058b829c55bd855cfc90fd9b52e54705786[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Mon Mar 26 23:39:41 2012 -0700
+
+    Amended readme to reflect new functionality: bot will respond to direct messages with a quotation.
+
+[33mcommit 8abb9b4b64d4fada56bce55b06d9381d9638fb06[m
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Mon Mar 26 23:36:51 2012 -0700
+
+    Added restart method to runner. Added unit tests to talkbackbot. Added Mock and coverage dependencies. Fixed a few malformed quotes.
+
+[33mcommit 0acd90f0d382b211658f99ef7af4cb7f3b0d192e[m
+Merge: 84ec043 3f7dee8
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Thu Mar 22 16:02:48 2012 -0700
+
+    Merge pull request #2 from ashanan/patch-1
+    
+    Minor typo (you're -> your).
+
+[33mcommit 84ec043eeeab93b2bab1b30fdc1bd5e0b27bcff9[m
+Merge: 5f7f273 b125000
+Author: Jessamyn Smith <geekchick77@gmail.com>
+Date:   Thu Mar 22 16:02:02 2012 -0700
+
+    Merge pull request #1 from wraithan/patch-1
+    
+    random.seed uses current time when no argument is given.
+
+[33mcommit 3f7dee82a23198d86404bd552420c15907ce6ac5[m
+Author: Avner Shanan <ashanan@gmail.com>
+Date:   Tue Mar 20 22:42:42 2012 -0500
+
+    Minor typo (you're -> your).
+
+[33mcommit b1250002320e7d5950d88934c95368ad9199eac1[m
+Author: Chris McDonald <XWraithanX@gmail.com>
+Date:   Tue Mar 20 02:11:33 2012 -0700
+
+    random.seed uses current time when no argument is given.
+
+[33mcommit 5f7f273e9522eab6ee373eaaaac96af2ee73fbca[m
+Author: jessamyn <jessamyn@dev.urbanairship.com>
+Date:   Wed Mar 14 20:50:31 2012 +0000
+
+    Added credit for quotes
+
+[33mcommit 8da599313e003294c2acbaa72cdae80340ee04b1[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sun Mar 11 21:41:47 2012 -0700
+
+    Added realname setting and more quotations
+
+[33mcommit fece630338296bfdc06a0c91e7809677c71ae068[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 12:49:31 2012 -0800
+
+    Added new setting to example settings
+
+[33mcommit a2ce726606444059341578187710bbc167845b56[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 12:44:19 2012 -0800
+
+    Renamed env so tab completion works better
+
+[33mcommit 766eee48564ff0758ae823353eb545b92cb0020b[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 12:33:47 2012 -0800
+
+    Moved virtualenv to its own directory and started adding unit tests
+
+[33mcommit c6fe1671066d7ea304c96117c0d3892fb96e381e[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 11:49:05 2012 -0800
+
+    Added new settings to example settings file
+
+[33mcommit 6616dcb986e592648a269dc9b64a5184d13e6f53[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 11:44:34 2012 -0800
+
+    Renamed classes to talkback
+
+[33mcommit 10753bd12de895331aa727c9c3829131c611af43[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 10:52:46 2012 -0800
+
+    Added more error handling and changed print statements to logs
+
+[33mcommit 5fec631a2af5743f91bc6e6a920e5d55dcc9ea12[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 10:32:51 2012 -0800
+
+    Added facility for stopping the bot and made it nicer to start
+
+[33mcommit efb9e009027d05d719c9c64a8db540fce2901e38[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 09:40:25 2012 -0800
+
+    Added support for non-SSL connections
+
+[33mcommit d729cc0ddba5c46eb7400de54873eed4ea40b498[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 02:07:04 2012 -0800
+
+    Daemonized bot, using https://github.com/boxedice/python-daemon
+
+[33mcommit 29c4669e5236431c88d4f3dbb2f78fd0f53e0789[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 01:33:51 2012 -0800
+
+    Changed project to use EXAMPLE settings file
+
+[33mcommit 42f2259b11168ee03d55b11010031eed1eb968bb[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 01:29:08 2012 -0800
+
+    Cleaned up quotes file and added some new quotable women.
+
+[33mcommit 9c4e9fdfaca5038a3513f6c934363ad7d057a65a[m
+Author: Jessamyn Smith <jessamyn@urbanairship.com>
+Date:   Sat Mar 10 00:46:05 2012 -0800
+
+    Initial commit of WSRS Bot
